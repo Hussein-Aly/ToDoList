@@ -1,10 +1,11 @@
 # ToDoList
 
-A simple ToDoList including a list for every section (eg. Today list, Home list, Work list...)
-In order to create a custom list just redirect to the [localhost:300](http://localhost:3000/{name of your list})
+A simple ToDoList including a list for every section (eg. Today list, Home list, Work list...) 
+Hosted on Heroku -> https://guarded-inlet-03306.herokuapp.com/
+In order to create a custom list just redirect to the https://guarded-inlet-03306.herokuapp.com/{Your List Name}
 
 This app is using:
 * HTML/CSS/JavaScript(EJS)
 * Node.js
 * Express.js
-* MongoDB
+* MongoDB Atlas
